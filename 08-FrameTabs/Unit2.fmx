@@ -1,0 +1,14 @@
+object FirstFrame: TFirstFrame
+  Size.Width = 320.000000000000000000
+  Size.Height = 240.000000000000000000
+  Size.PlatformDefault = False
+  object Glyph1: TGlyph
+    Align = HorzCenter
+    Position.X = 111.000000000000000000
+    Size.Width = 98.000000000000000000
+    Size.Height = 240.000000000000000000
+    Size.PlatformDefault = False
+    ImageIndex = 0
+    Images = DataModule5.ImageList1
+  end
+end
